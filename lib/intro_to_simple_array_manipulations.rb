@@ -5,3 +5,19 @@ end
 def using_insert(array, ele)
   array.insert(ele)
 end
+
+def using_uniq(array)
+  array.uniq
+end
+
+def 
+  
+end
+
+def 
+  
+end
+
+def 
+  
+end
